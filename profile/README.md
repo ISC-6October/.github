@@ -1,10 +1,6 @@
 # 🏫 International School of Choueifat - 6 October
 
-<p align="center">
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-</p>
+
 
 ---
 
